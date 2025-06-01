@@ -1,0 +1,12 @@
+Author is Brian Araby;
+Age is 19;
+Country is Egypt;
+State is Cairo;
+Originally is Qena;
+Student is env("Student");
+Text is env("TEXT_EXAMPLE");
+
+[SocialMedia]
+GitHub is @MehmetAraby;
+X is @MehmetAraby;
+Discord is @BrianAraby;
